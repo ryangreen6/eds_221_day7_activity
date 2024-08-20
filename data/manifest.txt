@@ -1,0 +1,8 @@
+Manifest file for knb-lter-cap.256.9.zip created on Tue Aug 20 21:08:05 UTC 2024
+52_pp52_birds_1.csv (1685225 bytes)
+52_pp52_surveys_1.csv (288632 bytes)
+52_pp52_sites_1.csv (8553 bytes)
+52_pp52_taxalist_1.csv (8563 bytes)
+knb-lter-cap.256.9.xml (35404 bytes)
+knb-lter-cap.256.9.txt (10202 bytes)
+knb-lter-cap.256.9.report.xml (55093 bytes)
